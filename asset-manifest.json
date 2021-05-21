@@ -1,35 +1,26 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.86613340.chunk.css",
-    "main.js": "/react-test/static/js/main.518310a9.chunk.js",
-    "main.js.map": "/react-test/static/js/main.518310a9.chunk.js.map",
+    "main.css": "/react-test/static/css/main.81b10789.chunk.css",
+    "main.js": "/react-test/static/js/main.bcfaa12e.chunk.js",
+    "main.js.map": "/react-test/static/js/main.bcfaa12e.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.a1c7fb7c.js",
     "runtime-main.js.map": "/react-test/static/js/runtime-main.a1c7fb7c.js.map",
-    "static/js/2.6459766b.chunk.js": "/react-test/static/js/2.6459766b.chunk.js",
-    "static/js/2.6459766b.chunk.js.map": "/react-test/static/js/2.6459766b.chunk.js.map",
+    "static/js/2.4e2705cd.chunk.js": "/react-test/static/js/2.4e2705cd.chunk.js",
+    "static/js/2.4e2705cd.chunk.js.map": "/react-test/static/js/2.4e2705cd.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "static/css/main.86613340.chunk.css.map": "/react-test/static/css/main.86613340.chunk.css.map",
-    "static/js/2.6459766b.chunk.js.LICENSE.txt": "/react-test/static/js/2.6459766b.chunk.js.LICENSE.txt",
+    "static/css/main.81b10789.chunk.css.map": "/react-test/static/css/main.81b10789.chunk.css.map",
+    "static/js/2.4e2705cd.chunk.js.LICENSE.txt": "/react-test/static/js/2.4e2705cd.chunk.js.LICENSE.txt",
     "static/media/style.css": "/react-test/static/media/why-learn-bg.2d1beee3.jpg",
-    "static/media/1.81fbcde9.jpg": "/react-test/static/media/1.81fbcde9.jpg",
-    "static/media/1.e12f76a3.jpg": "/react-test/static/media/1.e12f76a3.jpg",
-    "static/media/2.93b13ddb.jpg": "/react-test/static/media/2.93b13ddb.jpg",
-    "static/media/2.ee11c038.jpg": "/react-test/static/media/2.ee11c038.jpg",
-    "static/media/3.681cf77d.jpg": "/react-test/static/media/3.681cf77d.jpg",
-    "static/media/4.61cc95f5.jpg": "/react-test/static/media/4.61cc95f5.jpg",
-    "static/media/5.d0c9f018.jpg": "/react-test/static/media/5.d0c9f018.jpg",
-    "static/media/6.5bae70b6.jpg": "/react-test/static/media/6.5bae70b6.jpg",
     "static/media/flaticon.css": "/react-test/static/media/Flaticond41d.41e4fdc9.eot",
     "static/media/dark-logo.b417ef41.png": "/react-test/static/media/dark-logo.b417ef41.png",
     "static/media/font-awesome.min.css": "/react-test/static/media/fontawesome-webfontd41d.8b43027f.eot",
     "static/media/linea-fonts.css": "/react-test/static/media/linea-basic-10d41d.83fbe271.eot",
-    "static/media/lite-logo.5b27143a.png": "/react-test/static/media/lite-logo.5b27143a.png",
-    "static/media/map.97e48e02.jpg": "/react-test/static/media/map.97e48e02.jpg"
+    "static/media/lite-logo.5b27143a.png": "/react-test/static/media/lite-logo.5b27143a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a1c7fb7c.js",
-    "static/js/2.6459766b.chunk.js",
-    "static/css/main.86613340.chunk.css",
-    "static/js/main.518310a9.chunk.js"
+    "static/js/2.4e2705cd.chunk.js",
+    "static/css/main.81b10789.chunk.css",
+    "static/js/main.bcfaa12e.chunk.js"
   ]
 }
